@@ -1,0 +1,23 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">GF:GO</string>
+
+    <string name="bat">bat</string>
+    <string name="pistol">pistol</string>
+    <string name="grenade">grenade</string>
+    <string name="shop">Shop</string>
+    <string name="close">close</string>
+    <string name="per_second">per second</string>
+    <string name="remaining">remaining</string>
+    <string name="sword" >sword</string>
+    <string name="slime" >Slime</string>
+    <string name="green">GREEN!</string>
+    <string name="blue">BLUE!</string>
+    <string name="red">RED!</string>
+    <string name="tab_text_1">AUTO</string>
+    <string name="tab_text_2">CLICK</string>
+    <string name="tab_text_3">SKIN</string>
+    <string name="taken">enemy_taken</string>
+    <string name="kills">kills count</string>
+    <string name="sample_count_money">sample_count_money</string>
+    <string name="sample">sample</string>
+</resources>
